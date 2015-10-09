@@ -15,5 +15,8 @@ Step 1: Clone the repository
 
 Step 2: go to individual project 
 
-Step 3: execute following command: $ bundle exec rspec
+Step 3: execute following command: 
+ 
+       $ bundle exec rspec --format documentation
+
  

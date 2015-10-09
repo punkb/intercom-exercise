@@ -9,9 +9,14 @@ This project also includes the unit tests.
 This project access the customer JSON file to recognise and invite all the customer available in certain distance.
 
 
-How TO run.
+How TO Run/Test.
 
 Step 1: Clone the repository
 
-tep
+Step 2: go to individual project 
+
+Step 3: execute following command: 
+ 
+       $ bundle exec rspec --format documentation
+
  
